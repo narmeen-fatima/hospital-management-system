@@ -1,0 +1,20 @@
+﻿Hospital Management System
+
+
+winexe
+C#
+.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\
+Hospital_Management_System
+none
+false
+DEBUG;TRACE
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\App.xaml
+29-1707094773
+
+351286941514
+17935392575
+AddDoctorPage.xaml;AddMedicinePage.xaml;AddmittedPatientHistoryPage.xaml;AddStaffPage.xaml;AddTestPage.xaml;AdminWindow.xaml;AdmitPatientPage.xaml;AllocateBedWindow.xaml;AppointmentPatientHistoryPage.xaml;AppointmentStatusPage.xaml;BloodBankPage.xaml;CheckPatientPage.xaml;DetailsOfMedicineWindow.xaml;DispensaryPage.xaml;DoctorWindow.xaml;MainWindow.xaml;MedicineWindow.xaml;ReleasedPatientHistory.xaml;ReleasePatientPage.xaml;StaffWindow.xaml;SupplierPage.xaml;TakeAppointmentPage.xaml;TestWindow.xaml;UpdateDeleteDoctorPage.xaml;UpdateDeleteStaffPage.xaml;UpdateDoctorPage.xaml;UpdateStaffPage.xaml;ViewConsultationRequestPage.xaml;ViewDoctorsSchedulePage.xaml;
+
+True
+

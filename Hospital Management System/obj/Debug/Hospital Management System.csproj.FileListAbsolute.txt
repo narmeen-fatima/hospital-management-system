@@ -1,0 +1,142 @@
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddDoctorPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddMedicinePage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddmittedPatientHistoryPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddStaffPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddTestPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AdminWindow.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AdmitPatientPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AllocateBedWindow.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AppointmentPatientHistoryPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AppointmentStatusPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\BloodBankPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\CheckPatientPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\DetailsOfMedicineWindow.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\DispensaryPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\DoctorWindow.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\MainWindow.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\MedicineWindow.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\ReleasePatientPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\StaffWindow.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\SupplierPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\TakeAppointmentPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\TestWindow.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\UpdateDeleteDoctorPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\UpdateDeleteStaffPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\UpdateDoctorPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\ViewConsultationRequestPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\ViewDoctorsSchedulePage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddDoctorPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddMedicinePage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddmittedPatientHistoryPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddStaffPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AddTestPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AdminWindow.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AdmitPatientPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AllocateBedWindow.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AppointmentPatientHistoryPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\AppointmentStatusPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\BloodBankPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\CheckPatientPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\DetailsOfMedicineWindow.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\DispensaryPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\DoctorWindow.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\MainWindow.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\MedicineWindow.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\ReleasedPatientHistory.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\ReleasePatientPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\StaffWindow.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\SupplierPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\TakeAppointmentPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\TestWindow.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\UpdateDeleteDoctorPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\UpdateDeleteStaffPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\UpdateDoctorPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\UpdateStaffPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\ViewConsultationRequestPage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\ViewDoctorsSchedulePage.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\App.g.cs
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System_MarkupCompile.cache
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System_MarkupCompile.lref
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\ReleasedPatientHistory.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\UpdateStaffPage.baml
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System.g.resources
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System.csproj.CopyComplete
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\HP\Desktop\HospitalManagementSystem-master\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\bin\Debug\Hospital Management System.exe.config
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\Hospital Management System.exe
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\Hospital Management System.pdb
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\bin\Debug\Hospital Management System.exe
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\bin\Debug\Hospital Management System.pdb
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\Hospital Management System.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddDoctorPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddMedicinePage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddmittedPatientHistoryPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddStaffPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddTestPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AdminWindow.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AdmitPatientPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AllocateBedWindow.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AppointmentPatientHistoryPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AppointmentStatusPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\BloodBankPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\CheckPatientPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\DetailsOfMedicineWindow.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\DispensaryPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\DoctorWindow.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\MainWindow.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\MedicineWindow.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\ReleasePatientPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\StaffWindow.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\SupplierPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\TakeAppointmentPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\TestWindow.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\UpdateDeleteDoctorPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\UpdateDeleteStaffPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\UpdateDoctorPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\ViewConsultationRequestPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\ViewDoctorsSchedulePage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddDoctorPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddMedicinePage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddmittedPatientHistoryPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddStaffPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AddTestPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AdminWindow.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AdmitPatientPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AllocateBedWindow.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AppointmentPatientHistoryPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\AppointmentStatusPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\BloodBankPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\CheckPatientPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\DetailsOfMedicineWindow.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\DispensaryPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\DoctorWindow.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\MainWindow.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\MedicineWindow.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\ReleasedPatientHistory.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\ReleasePatientPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\StaffWindow.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\SupplierPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\TakeAppointmentPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\TestWindow.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\UpdateDeleteDoctorPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\UpdateDeleteStaffPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\UpdateDoctorPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\UpdateStaffPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\ViewConsultationRequestPage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\ViewDoctorsSchedulePage.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\App.g.cs
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\Hospital Management System_MarkupCompile.cache
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\Hospital Management System_MarkupCompile.lref
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\ReleasedPatientHistory.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\UpdateStaffPage.baml
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\Hospital Management System.g.resources
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\Hospital_Management_System.Properties.Resources.resources
+C:\Users\Hp\Desktop\HMS\Hospital-Management-System-master\Hospital Management System\obj\Debug\Hospital Management System.csproj.GenerateResource.Cache
